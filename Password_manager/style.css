@@ -5,7 +5,6 @@ body {
     color: #333;
     font-family: 'Poppins', sans-serif;
 }
-
 /* Light Overlay for Readability */
 body::before {
     content: "";
