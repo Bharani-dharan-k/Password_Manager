@@ -20,7 +20,7 @@ body::before {
 
 /* Navbar */
 .navbar {
-    background: #00ADB5; /* Light grayish-white */
+    background: #008e95; /* Light grayish-white */
     padding: 15px;
     box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1); /* Softer shadow */
 }
