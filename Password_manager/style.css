@@ -1,0 +1,70 @@
+        /* Custom Styles */
+        /* Body Background */
+        body {
+            background-color: #FFFFFF; /* White */
+            color: #333;
+        }
+        
+        /* Navbar */
+        .navbar {
+            background-color: #008080 !important; /* Teal */
+        }
+        
+        /* Navbar Links */
+        .navbar .nav-link {
+            color: #FFFFFF !important; /* White */
+        }
+        
+        .navbar .nav-link:hover {
+            background-color: #FFD700; /* Gold */
+            color: #000 !important; /* Black */
+            border-radius: 5px;
+        }
+        
+        /* Navbar Brand Image */
+        .navbar-brand img {
+            height: 40px; /* Fixed height */
+            width: auto;
+        }
+        
+        /* Navbar Buttons */
+        .navbar .btn {
+            padding: 5px 15px;
+            font-size: 14px;
+            background-color: #FFD700; /* Gold */
+            color: #000 !important;
+            border: none;
+        }
+        
+        .navbar .btn:hover {
+            background-color: #FFFFFF; /* White */
+            color: #008080 !important; /* Teal */
+        }
+        
+        /* Hero Section */
+        .hero {
+            text-align: center;
+            padding: 80px 20px;
+            background-color: #008080; /* Teal */
+            color: #FFFFFF; /* White */
+        }
+        
+        /* Content Section */
+        .content {
+            text-align: center;
+            padding: 60px 20px;
+            background-color: #FFFFFF; /* White */
+            color: #333;
+        }
+        
+        /* Footer */
+        .footer {
+            background: #008080; /* Teal */
+            color: #FFFFFF; /* White */
+            text-align: center;
+            padding: 15px 0;
+            position: fixed;
+            bottom: 0;
+            width: 100%;
+        }
+        
